@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hab1deen
-- 👀 I’m interested in Basic Programming language (html,css,java script)
+- 👀 I’m interested in Basic Programming language (html,css,javascript)
 - 🌱 I’m currently learning Software Developer, Full Satck Developer
 - 💞️ I’m looking to collaborate with you all
 - 📫 How to reach me just search my name
