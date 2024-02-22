@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Web Developer
 -----------------------
 
-I've been learning basic coding for 2 years now, currently learning TypeScript, React.js, TailwindCSS, GitLab, AWS.
+I am currently an intern at Gosoft Company.
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [habideen1111@gmail.com](mailto:habideen1111@gmail.com)
