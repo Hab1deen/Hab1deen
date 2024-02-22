@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Web Developer
 -----------------------
 
-I've been learning basic coding for 2 years now, currently learning TypeScript, React.js, TailwindCSS.
+I've been learning basic coding for 2 years now, currently learning TypeScript, React.js, TailwindCSS, GitLab, AWS.
 
 * 🌍  I'm based in Bangkok
-* 🖥️  See my portfolio at [Myportfolio](http://hab1deen.github.io/PersonalPortfolioWebsite/)
 * ✉️  You can contact me at [habideen1111@gmail.com](mailto:habideen1111@gmail.com)
-* 🧠  I'm learning React.js FrameWork
+* 🧠  I've been learning basic coding for 2 years now, currently learning TypeScript, React.js, TailwindCSS, GitLab, AWS.
 
 ### Skills
 
